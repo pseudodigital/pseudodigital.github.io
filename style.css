@@ -2,4 +2,69 @@
 /* CSS Document */
 body {
 	background-color: #42069f;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	font-family: roboto,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+h1 {
+	background-color: #31124f;
+	font-family: roboto,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	width: 300px;
+	float: left;
+}
+
+h2 {
+	font-family: roboto, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	width: 300px;
+	float: left;
+}
+
+img {
+	float: left;
+	background-color: #e7058b;
+}
+
+nav{
+	display: block;
+	background-color: #9d15ae;
+}
+
+content {
+	margin-right: 32px;
+	margin-left: 32px;
+}
+
+#date0 {
+	font-family: roboto,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background-color: yellow;
+	width: 300px;
+	height: 10px;
+}
+
+#date1 {
+	font-family: roboto,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background-color: blue;
+	width: 300px;
+	float: left;
+}
+
+#date2 {
+	font-family: roboto,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background-color: red;
+	width: 300px;
+	float: left;
 }
