@@ -1,0 +1,617 @@
+@charset "UTF-8";
+/* CSS Document */
+HTML, body {
+margin: 0px;
+padding: 0px;
+  border: 0px;
+}
+
+h1 {
+	font-family: roboto,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.5vw;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+h2 {
+	font-family: roboto, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	font-size: 1.5vw;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#pseudo {
+	
+	float:left;
+}
+
+.digital {
+  font-family: roboto, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	font-size: 1.5vw;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	color: #000000;
+	text-decoration: none;
+	background-color: #ffffff;
+}
+
+/* On mouse-over */
+.digital:hover {
+	background: #ffffff;
+}
+
+
+.headertwo {
+	width: 7vw;
+	height: 4.2vw;
+	padding-left: .5vw;
+	padding-right: 1vw;
+	background-color: #ffffff;
+}
+
+.headerthree {
+	width: 20vw;
+	height: 4.2vw;
+	margin-left: 7.5vw;
+	padding-right: 68vw;
+	background-color: #ffffff;
+}
+
+.headerfour {
+	width: 20vw;
+	max-height: 140px;
+	margin-left: 44.25vw;
+	background-color: #ffffff;
+}
+
+.headerfive {
+	width: 15vw;
+	height: 4.2vw;
+	margin-left: 83.7vw;
+	padding-right: .7vw;
+	background-color: #ffffff;
+}
+
+
+.spacer {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	height: 4.2vw;
+	width: 90vw;
+	background-color: #ffffff;
+}
+
+.menu {
+	float: left;
+	width: 10%;
+	height: 25vw;
+	position: fixed;
+	text-align: center;
+	background-color: #392414;
+}
+
+.one {
+	background-color: #ffffff;
+	text-align: center;
+	height: 90vw;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	width: 25%;
+}
+
+.two {
+	background-color: #ffffff;
+	text-align: center;
+	width: 18.75%;
+	height: 90vw;
+}
+
+.ctrpic {
+	background-image: url("../1/scream.jpg");
+	background-size:contain;
+	background-repeat: no-repeat;
+	width: 50%;
+	Height: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.three {
+	background-color: #ffffff;
+	text-align: center;
+	width: 56.25%;
+	height: 70vw;
+}
+
+.four {
+	background-color: #ffffff;
+	text-align: center;
+	width: 56.25%;
+	height: 20vw;
+}
+
+
+img {
+	
+	max-height: 100%;
+	max-width: 100%;
+}
+
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+/* ONE CONTENT BLOCKS */
+
+.onebyone {
+	width: 24%;
+	height: 4vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.onebytwo {	
+	width: 24%;
+	height: 8.1vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+
+}
+
+.onebythree {
+	width: 24%;
+	height: 12vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.onebyfour {
+	width: 24%;
+	height: 16vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twobyone {
+	width: 49%;
+	height: 4vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twobytwo {
+	width: 49%;
+	height: 8.1vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twobyfour {
+	width: 49%;
+	height: 12vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.threebyone {
+	width: 72%;
+	height: 4vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+
+.threebythree {
+	width: 74%;
+	height: 12vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.fourbyfour {
+	width: 96%;
+	height: 16vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.fivebythree {
+	width: 120%;
+	height: 12px;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.onebyone:hover, .onebytwo:hover, .onebythree:hover, .onebyfour:hover, .twobyone:hover, .twobytwo:hover, .twobyfour:hover, .threebyone:hover, .threebythree:hover, .fourbyfour:hover, .fivebythree:hover {
+	background-color:#D2BDDB
+}
+
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+/* TWO CONTENT BLOCKS *//* TWO CONTENT BLOCKS */
+
+
+
+.twoonebyone {
+	width: 32%;
+	height: 4vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twoonebytwo {	
+	width: 32%;
+	height: 8.1vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+
+}
+
+.twoonebythree {
+	width: 32%;
+	height: 12.3vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twoonebyfour {
+	width: 32%;
+	height: 16vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twotwobyone {
+	width: 65%;
+	height: 4vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twotwobytwo {
+	width: 65%;
+	height: 8.1vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twotwobyfour {
+	width: 65%;
+	height: 16vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twothreebyone {
+	width: 65%;
+	height: 4vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+
+.twothreebythree {
+	width: 98%;
+	height: 12vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twofourbyfour {
+	width: 98%;
+	height: 16vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twofivebythree {
+	width: 160%;
+	height: 12.3vw;
+	margin: .1vw .5% .1vw.5%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.twoonebyone:hover, .twoonebytwo:hover, .twoonebythree:hover, .twoonebyfour:hover, .twotwobyone:hover, .twotwobytwo:hover, .twotwobyfour:hover, .twothreebyone:hover, .twothreebythree:hover, .twofourbyfour:hover, .twofivebythree:hover {
+	background-color:#D2BDDB
+}
+
+
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+/* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS *//* THREE CONTENT BLOCKS */
+
+#bigblock {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	width: 66%;
+	height: 70vw;
+	float:left;
+	background-color: #ffffff;
+}
+
+#smallblock {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	width: 33%;
+	height: 70vw;
+	float: left; 
+	background-color: #ffffff;
+}
+
+.thronebyone {
+	width: 16%;
+	height: 4vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thronebytwo {	
+	width: 16%;
+	height: 8.1vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+
+}
+
+.thronebythree {
+	width: 16%;
+	height: 12.3vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thronebyfour {
+	width: 16%;
+	height: 16vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thrtwobyone {
+	width: 32.5%;
+	height: 4vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thrtwobytwo {
+	width: 32.5%;
+	height: 8.1vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thrtwobyfour {
+	width: 32.5%;
+	height: 16vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thrthreebyone {
+	width: 49%;
+	height: 4vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+
+.thrthreebythree {
+	width: 49%;
+	height: 12vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thrfourbyfour {
+	width: 65.34%;
+	height: 16vw;
+	margin: .1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thrfivebythree {
+	width: 54%;
+	height: 12.3vw;
+	margin:.1vw .25% .1vw.25%;
+	background-color: #C294D7;
+	float: left;
+}
+
+.thronebyone:hover, .thronebytwo:hover, .thronebythree:hover, .thronebyfour:hover, .thrtwobyone:hover, .thrtwobytwo:hover, .thrtwobyfour:hover, .thrthreebyone:hover, .thrthreebythree:hover, .thrfourbyfour:hover, .thrfivebythree:hover {
+	background-color:#D2BDDB
+}
+
+
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+	float: left;
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+ display: none;
+  position: absolute;
+	top: -11.45px;
+	left: -15.4px;
+  background-color: rgba(255,255,255,0.00);
+  min-width: 100px;
+  box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+ 	font-family: roboto, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	font-size: 1.5vw;
+	margin: 0px;
+	border: 0px;
+ 	padding: 12px 16px;
+	color: #000000;
+  text-decoration: none;
+	display: block;
+	float: left;
+  
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {color: #CEA9FA;}
+
+.dropdown-content {background-color: #ffffff;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+
+/* Site Alignment */
+
+.one {
+	float: left;
+}
+
+.two, .three, .four {
+
+  float: left;
+}
+
+.headerfour {
+	text-align: center;
+	position:fixed;
+}
+
+.header, .headertwo, .headerthree {
+	text-align: left;
+	position:fixed;
+}
+
+.headerfive {
+	text-align: right;
+	position: fixed;
+}
+
+
+
+/* When Site is under 1242px */
+
+@media screen and (max-width: 1242px) {
+	.ctrpic {
+	background-image: url("../1/scream.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 30%;
+	Height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+  .one, .two, .three, .four {
+    width: 100%;
+	height: 90vw;
+  }
+}
+
